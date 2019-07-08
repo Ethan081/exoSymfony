@@ -185,3 +185,6 @@ b09c44,::1,GET,http://localhost/cours-init-sfy/public/exo03?age=10,1562340185,,2
 32dda3,::1,GET,http://localhost/cours-init-sfy/public/exo03?age=10,1562341715,,200
 e62369,::1,GET,http://localhost/cours-init-sfy/public/exo03?age=34,1562341723,,200
 270a17,::1,GET,http://localhost/cours-init-sfy/public/exo03?age=13,1562341730,,200
+7e9d28,::1,GET,http://localhost/cours-init-sfy/public/,1562571938,,404
+ee078f,::1,GET,http://localhost/cours-init-sfy/public/,1562571957,,404
+c6111d,::1,GET,http://localhost/cours-init-sfy/public/,1562571957,,404

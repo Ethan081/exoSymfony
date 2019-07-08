@@ -1,26 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26b405c4-78e5-4ade-bd74-0f2b0bd0303d" name="Default Changelist" comment="" />
+    <list default="true" id="26b405c4-78e5-4ade-bd74-0f2b0bd0303d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/4/R/ALuZ9wDsdT6HhbikFc0w" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/4/R/ALuZ9wDsdT6HhbikFc0w" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/5/V/ygwkbQLQte+wkRK-VNxg" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/5/V/ygwkbQLQte+wkRK-VNxg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/F/V/t26Ch44hSeTmdX3ABBIA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/F/V/t26Ch44hSeTmdX3ABBIA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/H/3/xZRTu-xcxmh0nYWwrP6g" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/H/3/xZRTu-xcxmh0nYWwrP6g" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/J/C/dw3oG7dE+Q51pMXTGbLg" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/J/C/dw3oG7dE+Q51pMXTGbLg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/K/P/lBTnFRN6f6SdoaGKmCdA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/K/P/lBTnFRN6f6SdoaGKmCdA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/O/4/X34byu35KnmLQd4YpczA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/O/4/X34byu35KnmLQd4YpczA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/Q/5/GScLE0oRRlVZnZMrNM5g" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/Q/5/GScLE0oRRlVZnZMrNM5g" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/V/W/LqOHZJMiGSQPFT7IyUHA" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/V/W/LqOHZJMiGSQPFT7IyUHA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/X/F/duuTBgE+ahj9tysucmww" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/X/F/duuTBgE+ahj9tysucmww" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/X/P/rL6gKHDfehfRdin+UccQ" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/X/P/rL6gKHDfehfRdin+UccQ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/Y/K/O7sZ2STWpR+tiP8tkzew" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/sXFG-Lz5ek/Y/K/O7sZ2STWpR+tiP8tkzew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/log/dev.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/log/dev.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
+            <state relative-caret-position="231">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#36#101#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,7 +167,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="714" />
@@ -217,24 +236,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562507319388</updated>
-      <workItem from="1562507322271" duration="334000" />
+      <workItem from="1562507322271" duration="507000" />
+      <workItem from="1562571975252" duration="967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334000" />
+    <option name="totallyTimeSpent" value="1474000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="714" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32838285" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -242,10 +267,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32838285" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,12 +306,29 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Controller/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="191" column="22" lean-forward="true" selection-start-line="191" selection-start-column="22" selection-end-line="191" selection-end-column="22" />
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#36#101#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
