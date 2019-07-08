@@ -238,7 +238,7 @@ class HomeController extends AbstractController
             ]
 
         ];
-
+        //$this->render(chemin de fichier, []);
         return $this->render('exo03.html.twig',
         [
             'starDisco'=> $starDisco,
@@ -247,6 +247,16 @@ class HomeController extends AbstractController
         );
     }
 //    --------------------------------------------------------------------------------------------------------------
+//Path
+    //Je cree la route
+    /**
+     * @Route("/contact", name="contact")
+     */
 
+    public function contact(){
+//        var_dump('hello');die;
+        //je recupere le contenue de la page  contact pour le renvoyer a la Route /contact.
+        return $this->render("contact.html.twig");
+    }
 
 }

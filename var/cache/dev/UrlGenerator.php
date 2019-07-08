@@ -26,4 +26,5 @@ return [
     'exo01' => [[], ['_controller' => 'App\\Controller\\HomeController::exo01'], [], [['text', '/exo01']], [], []],
     'exo02' => [[], ['_controller' => 'App\\Controller\\HomeController::exo02'], [], [['text', '/exo02']], [], []],
     'exo03' => [[], ['_controller' => 'App\\Controller\\HomeController::exo03'], [], [['text', '/exo03']], [], []],
+    'contact' => [[], ['_controller' => 'App\\Controller\\HomeController::contact'], [], [['text', '/contact']], [], []],
 ];

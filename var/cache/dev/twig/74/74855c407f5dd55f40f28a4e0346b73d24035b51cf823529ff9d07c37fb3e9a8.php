@@ -111,6 +111,18 @@ class __TwigTemplate_aae06d99deee15ce387dfa1d2d70aa0064bd0f4af1df6f3aba811897df1
                 font-size: 70px;
                 color:red;
             }
+            .button {
+                background-color: #4CAF50; /* Green */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                border-radius: 10px;
+                margin: 20px;
+            }
         </style>
     </head>
     <body>
@@ -119,37 +131,37 @@ class __TwigTemplate_aae06d99deee15ce387dfa1d2d70aa0064bd0f4af1df6f3aba811897df1
         </header>
         <main class=\"main\">
             ";
-        // line 80
+        // line 92
         echo "            ";
-        if (((isset($context["age"]) || array_key_exists("age", $context) ? $context["age"] : (function () { throw new RuntimeError('Variable "age" does not exist.', 80, $this->source); })()) >= 18)) {
-            // line 81
+        if (((isset($context["age"]) || array_key_exists("age", $context) ? $context["age"] : (function () { throw new RuntimeError('Variable "age" does not exist.', 92, $this->source); })()) >= 18)) {
+            // line 93
             echo "                ";
             $context['_parent'] = $context;
-            $context['_seq'] = twig_ensure_traversable((isset($context["starDisco"]) || array_key_exists("starDisco", $context) ? $context["starDisco"] : (function () { throw new RuntimeError('Variable "starDisco" does not exist.', 81, $this->source); })()));
+            $context['_seq'] = twig_ensure_traversable((isset($context["starDisco"]) || array_key_exists("starDisco", $context) ? $context["starDisco"] : (function () { throw new RuntimeError('Variable "starDisco" does not exist.', 93, $this->source); })()));
             foreach ($context['_seq'] as $context["_key"] => $context["element"]) {
-                // line 82
+                // line 94
                 echo "                    <div class=\"cards\">
                         <div class=\"img\"><img src=\"";
-                // line 83
-                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "img", [], "any", false, false, false, 83), "html", null, true);
+                // line 95
+                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "img", [], "any", false, false, false, 95), "html", null, true);
                 echo "\" alt=\"\" class=\"resp\"></div>
                         <div>
                             ";
-                // line 86
+                // line 98
                 echo "                            <h1>";
-                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "nom", [], "any", false, false, false, 86), "html", null, true);
+                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "nom", [], "any", false, false, false, 98), "html", null, true);
                 echo "</h1>
                         </div>
                         <div>
                             <h2>";
-                // line 89
-                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "age", [], "any", false, false, false, 89), "html", null, true);
+                // line 101
+                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "age", [], "any", false, false, false, 101), "html", null, true);
                 echo "</h2>
                         </div>
                         <div>
                             <p>";
-                // line 92
-                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "bio", [], "any", false, false, false, 92), "html", null, true);
+                // line 104
+                echo twig_escape_filter($this->env, twig_get_attribute($this->env, $this->source, $context["element"], "bio", [], "any", false, false, false, 104), "html", null, true);
                 echo "</p>
                         </div>
                     </div>
@@ -158,20 +170,24 @@ class __TwigTemplate_aae06d99deee15ce387dfa1d2d70aa0064bd0f4af1df6f3aba811897df1
             $_parent = $context['_parent'];
             unset($context['_seq'], $context['_iterated'], $context['_key'], $context['element'], $context['_parent'], $context['loop']);
             $context = array_intersect_key($context, $_parent) + $_parent;
-            // line 96
+            // line 108
             echo "            ";
         } else {
-            // line 97
+            // line 109
             echo "                <div class=\"messageTPetit\">
                     <h3>Tu es trop petit(e) pour ecouter de la BONNE MUSIC.</h3>
                 </div>
             ";
         }
-        // line 101
+        // line 113
         echo "
         </main>
         <footer class=\"footer\">
-                <p>-----70's-----</p>
+";
+        // line 117
+        echo "            <a href=\"";
+        echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("contact");
+        echo "\" class=\"button\">Contact</a>
         </footer>
 
     </body>
@@ -196,7 +212,7 @@ class __TwigTemplate_aae06d99deee15ce387dfa1d2d70aa0064bd0f4af1df6f3aba811897df1
 
     public function getDebugInfo()
     {
-        return array (  171 => 101,  165 => 97,  162 => 96,  152 => 92,  146 => 89,  139 => 86,  134 => 83,  131 => 82,  126 => 81,  123 => 80,  43 => 1,);
+        return array (  188 => 117,  183 => 113,  177 => 109,  174 => 108,  164 => 104,  158 => 101,  151 => 98,  146 => 95,  143 => 94,  138 => 93,  135 => 92,  43 => 1,);
     }
 
     public function getSourceContext()
@@ -272,6 +288,18 @@ class __TwigTemplate_aae06d99deee15ce387dfa1d2d70aa0064bd0f4af1df6f3aba811897df1
                 font-size: 70px;
                 color:red;
             }
+            .button {
+                background-color: #4CAF50; /* Green */
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                border-radius: 10px;
+                margin: 20px;
+            }
         </style>
     </head>
     <body>
@@ -304,7 +332,8 @@ class __TwigTemplate_aae06d99deee15ce387dfa1d2d70aa0064bd0f4af1df6f3aba811897df1
 
         </main>
         <footer class=\"footer\">
-                <p>-----70's-----</p>
+{#          je cree un bouton avec un lien vers la page contact en utilisant Path.#}
+            <a href=\"{{ path(\"contact\")}}\" class=\"button\">Contact</a>
         </footer>
 
     </body>

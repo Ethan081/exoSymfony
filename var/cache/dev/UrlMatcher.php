@@ -23,6 +23,7 @@ return [
         '/exo01' => [[['_route' => 'exo01', '_controller' => 'App\\Controller\\HomeController::exo01'], null, null, null, false, false, null]],
         '/exo02' => [[['_route' => 'exo02', '_controller' => 'App\\Controller\\HomeController::exo02'], null, null, null, false, false, null]],
         '/exo03' => [[['_route' => 'exo03', '_controller' => 'App\\Controller\\HomeController::exo03'], null, null, null, false, false, null]],
+        '/contact' => [[['_route' => 'contact', '_controller' => 'App\\Controller\\HomeController::contact'], null, null, null, false, false, null]],
     ],
     [ // $regexpList
         0 => '{^(?'
