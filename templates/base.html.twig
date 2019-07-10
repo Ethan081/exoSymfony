@@ -1,12 +1,24 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>{% block title %}Welcome!{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
+        <meta name="viewport"
+              content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>{% block title %}{% endblock %}</title>
+        {#        je link mon fichier css a l aide de la function {{ asset('lien du fichier css') }} qui me redirije directement dans le dossier public #}
+        <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
     </head>
     <body>
-        {% block body %}{% endblock %}
-        {% block javascripts %}{% endblock %}
+        <header class="header">
+            <h1>Star70</h1>
+        </header>
+
+        {% block main %}
+        {% endblock %}
+
+        {% block footer %}
+        {% endblock %}
+
     </body>
 </html>
